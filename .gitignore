@@ -2,3 +2,6 @@
 *.xlsx
 *.csv
 values.py
+Exports/
+archives/
+
