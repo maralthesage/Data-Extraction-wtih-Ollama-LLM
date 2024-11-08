@@ -4,4 +4,8 @@
 values.py
 Exports/
 archives/
+.venv/
+openai-price-calculation/
+Product_classification.ipynb
+WG_MAPPING.ipynb
 
