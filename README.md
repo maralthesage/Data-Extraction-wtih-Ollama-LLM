@@ -1,4 +1,4 @@
-<span style="color: #FF5733; font-size: 2em;"># Product Attribute Extraction with Large Language Models (LLMs)</span>
+# <span style="color: #FF5733; font-size: 2em;"> Product Attribute Extraction with Large Language Models (LLMs)</span>
 
 This project leverages AI, specifically large language models (LLMs), to extract product attributes from unstructured product description text and structure them into CSV tables. The resulting structured data can be used for further analysis, inventory management, or enhanced e-commerce listings.
 
@@ -12,7 +12,7 @@ This project leverages AI, specifically large language models (LLMs), to extract
 ## <span style="color: #FF4500;">Overview</span>
 The purpose of this project is to automate the extraction and structuring of product information from descriptive text. Given the diverse formats of product descriptions, traditional methods can struggle to consistently retrieve information. By using LLMs, this project efficiently identifies and extracts specific attributes (e.g., color, size, material, brand) and organizes them into structured CSV files.
 
-## <span style="color: #FF5733;">Technical Approach</span>
+## <span style="color: #FF4500;">Technical Approach</span>
 
 This project is based on techniques in the fields of **Natural Language Processing (NLP)** and **Information Extraction (IE)**. Here’s a breakdown of the main technical components:
 
@@ -34,7 +34,7 @@ This project is based on techniques in the fields of **Natural Language Processi
 The extracted data is structured into a CSV format with each product in one row and various product attributes in the columns. For each Product category (Warengruppe) we set a different set of attributes suitable for that Warengruppe.
 
 
-<span style="color: #FF4500;">Examples</span>
+<span style="color: #FF5733;">Examples</span>
 
 ### Example Input
 Product description:
